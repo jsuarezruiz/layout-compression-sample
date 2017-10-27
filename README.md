@@ -8,10 +8,12 @@ Using [Xamarin Inspector](https://developer.xamarin.com/guides/cross-platform/in
 
 ### Profile View
 
-Default
+##### Default
+
 <img src="images/default-profile.png" Width="600" />
 
-Layout Compression
+##### Layout Compression
+
 <img src="images/layout-compression-profile.png" Width="600" />
 
 - Default: 71 Renderers.
@@ -21,10 +23,12 @@ Layout Compression
 
 ### Home View
 
-Default
+##### Default
+
 <img src="images/default-home.png" Width="600" />
 
-Layout Compression
+##### Layout Compression
+
 <img src="images/layout-compression-home.png" Width="600" />
 
 - Default: 223 Renderers.
@@ -34,10 +38,12 @@ Layout Compression
 
 ### Detail View
 
-Default
+##### Default
+
 <img src="images/default-detail.png" Width="600" />
 
-Layout Compression
+##### Layout Compression
+
 <img src="images/layout-compression-detail.png" Width="600" />
 
 - Default: 296 Renderers.
